@@ -1,4 +1,4 @@
 # kirillov-n
 Nikolay Kirillov
 
-Master's student at ITMO
+Second year master's student at ITMO
