@@ -1,6 +1,6 @@
 # Nikolay Kirillov
 ITMO master's degree graduate
 
-<h3 align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillov-n&langs_count=4" alt="Top Languages">
-</h3>
+<div style="width: 100%; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillov-n&langs_count=4" alt="Top Languages" style="width: 100%; max-width: 600px;">
+</div>
