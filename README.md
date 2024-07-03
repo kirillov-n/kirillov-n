@@ -1,4 +1,5 @@
 # Hi 👋🏻, I'm Nikolay
+### 🐍 Python developer
 ### 🎓 ITMO master's degree graduate
 ### 📑<a href="https://drive.google.com/file/d/1Gtbs2W4_HE1QeQK0tjSHhWH2JcSKPx0q/view?usp=sharing" target="blank"> CV
 ## 🔗Connect with me
