@@ -1,7 +1,8 @@
 # Hi 👋🏻, I'm Nikolay
 ### 🐍 Python developer
 ### 🎓 ITMO master's degree graduate
-### 📑<a href="https://drive.google.com/file/d/1Gtbs2W4_HE1QeQK0tjSHhWH2JcSKPx0q/view?usp=sharing" target="blank"> CV
+### 📑<a href="https://drive.google.com/file/d/1Gtbs2W4_HE1QeQK0tjSHhWH2JcSKPx0q/view?usp=sharing" target="blank"> CV Python Dev
+### 📑<a href="https://drive.google.com/file/d/1sWxp7yyZhamKai-0ujabsMGZoIFimOmx/view?usp=sharing" target="blank"> CV DWH Dev
 ## 🔗Connect with me
 
 ### <a href="https://t.me/kirillov_n" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="tg: kirillov_n" height="25" width="35" /></a> <a href="https://t.me/kirillov_n" target="blank">**t.me/kirillov_n**
