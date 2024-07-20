@@ -2,9 +2,6 @@
 ### 🐍 Python developer
 ### 🎓 ITMO master's degree graduate
 #### <a href="https://diploma.itmo.ru/docs/A660C081C8E61D0DADF2D273975C05AA?usp=sharing" target="_blank" > 📜 Digital Diploma
-## 📑 My CV
-### <a href="https://drive.google.com/file/d/1Gtbs2W4_HE1QeQK0tjSHhWH2JcSKPx0q/view?usp=sharing" target="_blank"> Python Dev
-### <a href="https://drive.google.com/file/d/1sWxp7yyZhamKai-0ujabsMGZoIFimOmx/view?usp=sharing" target="_blank"> DWH Dev
 ## 📫 Text me
 ### <a href="https://t.me/kirillov_n" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="tg: kirillov_n" height="25" width="35" /></a> <a href="https://t.me/kirillov_n" target="_blank">**t.me/kirillov_n**
 
