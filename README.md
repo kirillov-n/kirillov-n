@@ -1,5 +1,6 @@
 # Hi 👋🏻, I'm Nikolay
 ### 🐍 Python developer
+### Currently learning Kotlin
 ### 🎓 ITMO master's degree graduate
 #### <a href="https://diploma.itmo.ru/docs/A660C081C8E61D0DADF2D273975C05AA?usp=sharing" target="_blank" > 📜 Digital Diploma
 ## 📫 Contact me
