@@ -1,7 +1,8 @@
-# Hi, I'm Nikolay
-### Python developer
-### Currently learning Kotlin
-### ITMO master's degree graduate
+# 🙋🏼‍♂️ Hi, I'm Nikolay
+### 📊 Data Analyst
+### 👨🏼‍💻Future android dev
+[![roadmap.sh](https://roadmap.sh/card/wide/672ce09631d65c235d46ef46?variant=dark)](https://roadmap.sh)
+### 🎓 ITMO master's degree graduate
 #### <a href="https://diploma.itmo.ru/docs/A660C081C8E61D0DADF2D273975C05AA?usp=sharing" target="_blank" > Digital Diploma
 ## 📫 Contact me
 ### <a href="https://t.me/kirillov_n" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="tg: kirillov_n" height="25" width="35" /></a> <a href="https://t.me/kirillov_n" target="_blank">**t.me/kirillov_n**
